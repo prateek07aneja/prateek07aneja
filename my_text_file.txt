@@ -1,0 +1,7 @@
+Hello friends,
+
+This is my first text file.
+I am going to push it in Git
+
+Thanks and Regards
+Prateek Aneja
